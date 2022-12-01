@@ -1,0 +1,2 @@
+# emailAI
+email parser AI
